@@ -1,6 +1,7 @@
 ### Инструкция по настройке Nekobox на Android через подписку 
-1. Скачайте и установите клиент Nekobox по ссылке [arm64-v8a](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.4/NB4A-1.3.4-arm64-v8a.apk) 
-Версия для [armeabi-v7a](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.4/NB4A-1.3.4-armeabi-v7a.apk)
+1. Скачайте и установите клиент Nekobox по ссылке [arm64-v8a](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.4/NB4A-1.3.4-arm64-v8a.apk).
+
+Если по ссылке выше не устанавливается, попробуйте скачать версию для [armeabi-v7a](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.4/NB4A-1.3.4-armeabi-v7a.apk)
 2. Запустите приложение Nekobox
 3. Перейдите с помощью меню слева (3 горизонтальные полосы) в раздел `Группы`
 
