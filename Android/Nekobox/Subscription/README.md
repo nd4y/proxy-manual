@@ -96,7 +96,7 @@
 
 Пример на скриншоте
 
-<img src="image-12.png" alt="screenshot" width="392" height="915">
+<img src="image-9.png" alt="screenshot" width="392" height="915">
 
 5. Создайте маршрут для работы некоторых приложений НЕ через прокси с параметрами:
 
