@@ -4,8 +4,8 @@
 ### Windows
 #### Nekobox
 ##### Direct
-Инструкция по настройке Nekobox на Windows с явным указанием строки подключения
-[Инструкция по настройке](Windows/NekoBox/Direct/README.md)
+
+[Инструкция по настройке Nekobox на Windows с явным указанием строки подключения](Windows/NekoBox/Direct/README.md)
 
 ### Android
 #### Nekobox
