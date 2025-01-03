@@ -11,4 +11,4 @@
 #### Nekobox
 ##### Subscriptions
 
-[Инструкция по настройке по подписке Nekobox на Android](Android/Nekobox/Subscription/README.md)
+[Инструкция по настройке Nekobox на Android через подписку](Android/Nekobox/Subscription/README.md)
