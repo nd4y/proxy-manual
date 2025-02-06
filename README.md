@@ -12,9 +12,9 @@
 #### Nekobox
 ##### Subscriptions
 
-[Инструкция по настройке Nekobox на Android через подписку](Android/Nekobox/Subscription/README.md)
+[Инструкция по настройке Nekobox на Android через подписку](Android/Nekobox/Subscriptions/README.md)
 
 #### Hiddify
 ##### Subscriptions
 
-[Инструкция по настройке Hiddify на Android через подписку](Android/Hiddify/Subscription/README.md)
+[Инструкция по настройке Hiddify на Android через подписку](Android/Hiddify/Subscriptions/README.md)
